@@ -2,7 +2,7 @@
 layout: post
 title:  "New Project"
 date:   2011-09-20
-categories: Panda3D, Panda3D Scene Editor
+tags: [panda3d, panda3d scene editor]
 ---
 I’ve started working on a new project, one of the main reasons I wanted to start this blog in the first place. Since starting off in this industry as an environment artist I’ve always loved the idea of building a space and then exploring and interacting with it. I’ve also been looking to start on something which would allow me to work on something with both artistic and technical elements.
 

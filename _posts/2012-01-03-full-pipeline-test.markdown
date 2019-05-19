@@ -2,7 +2,7 @@
 layout: post
 title:  "Full Pipeline Test"
 date:   2012-01-03
-categories: Art, Panda3D, Panda3D Scene Editor, Tech Art
+tags: [art, panda3d, panda3d scene editor, tech art]
 ---
 I’ve finally completed a full test of my pipeline, from creating the assets in Maya and Photoshop through to deployment on a webpage. There’s been a number of small issues I’ve had to solve along the way, and I hope to outline some of these in this post. The finished real time warehouse scene can be viewed here (you will be asked to approve a certificate saying that you allow my code to run on your computer after installing the plugin).
 

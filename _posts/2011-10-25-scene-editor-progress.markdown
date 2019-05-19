@@ -2,7 +2,7 @@
 layout: post
 title:  "Scene Editor Progress"
 date:   2011-10-25
-categories: Panda3D, Panda3D Scene Editor
+tags: [panda3d, panda3d scene editor]
 ---
 It’s been a while since my last post as I’ve been busy with work, but I’ve been chipping away at the editor whenever free time is available. I’ve managed to get the entire pipeline working; from creating models in Maya, exporting them to Panda, arranging them in the editor and then getting them to run in my “game”.
 

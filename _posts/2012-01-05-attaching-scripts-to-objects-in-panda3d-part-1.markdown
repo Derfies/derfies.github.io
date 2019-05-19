@@ -2,7 +2,7 @@
 layout: post
 title:  "Attaching Scripts to Objects in Panda3D – Part I"
 date:   2012-01-05
-categories: Musings, Panda3D, Panda3D Scene Editor
+tags: [musings, panda3d, panda3d scene editor]
 ---
 Now that I have a basic scene editor capable of adding, transforming and editing the properties of nodes, the next thing to do is to get some scripted behaviour happening. Having used Unity for my last project I’ve found my design choices to be greatly influenced by this tool, and Unity takes the intuitive approach of allowing the user to attach scripts to nodes in the scene hierarchy. Any subsequent manipulation of the node or its components by these scripts can be done using reserved keywords in the body of the script.
 

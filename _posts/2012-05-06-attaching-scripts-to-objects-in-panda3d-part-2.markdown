@@ -2,7 +2,7 @@
 layout: post
 title:  "Attaching Scripts to Objects in Panda3D – Part II"
 date:   2012-05-06
-tags: [Musings, Panda3D, Panda3D Scene Editor]
+tags: [musings, panda3d, panda3d scene editor]
 ---
 In my last post I showed how to attach a Python object to a node path in order to create a ‘hook’ in the Panda3D scene graph. In this post I’ll be showing how to dynamically add additional code to that object at runtime. Attaching code to objects in this way will be at the core of offering drag and drop scripting functionality in the same manner as Unity.
 
