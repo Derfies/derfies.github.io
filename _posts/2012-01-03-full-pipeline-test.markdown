@@ -30,4 +30,4 @@ I also had some trouble building some of my modules. I have a helper model which
 
 Lastly, in order to pack something and release it on the web you must bundle a certificate into your p3d file. This is basically a way where users can identify who is running code on their computer. I created mine using the OS X key chain utility, which made it very easy to create a self-signed certificate using the terminal.
 
-![My helpful screenshot](/assets/warehouseTest01.jpg)![My helpful screenshot](/assets/warehouseTest02.jpg)
+![My helpful screenshot](/assets/images/warehouseTest01.jpg)![My helpful screenshot](/assets/images/warehouseTest02.jpg)

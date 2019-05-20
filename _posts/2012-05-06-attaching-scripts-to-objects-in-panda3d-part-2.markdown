@@ -8,7 +8,7 @@ In my last post I showed how to attach a Python object to a node path in order t
 
 Once we have the PandaObject the next thing we could do is to subclass it in order to add additional code. Since I’m building an editor I want to offer the user an easy way to add, remove and combine different scripts for a node path, so in this case we’ll use the PandaObject as a hook only and then ‘hang’ other scripts from it.
 
-![My helpful screenshot](/assets/pandaEditorUi2.jpg)
+![My helpful screenshot](/assets/images/pandaEditorUi2.jpg)
 
 In the context of our editor, the user will presented with a file browser displaying all the scripts in their project. This hierarchy will be representative of the directory structure on disk, and the user should be able to drag and drop any script onto any node in the scene. This presents an interesting problem as essentially we need to be able to instantiate a class from a file path the user selects at runtime. Thankfully python’s imp module offers some very handy tools for solving this kind of problem.
 

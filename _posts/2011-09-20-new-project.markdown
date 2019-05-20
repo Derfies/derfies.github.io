@@ -21,4 +21,4 @@ So far I have some basics working:
 
 With the editor in this basic form, the next step will be to create a simple environment with it. I’m planning on implementing the excellent [ODE Middleware](https://discourse.panda3d.org/t/ode-middleware/7436) written by one of the Panda community members to take some of the load off the player camera, controls and movement so I can concentrate on the editor and making scenes with it.
 
-![My helpful screenshot](/assets/pandaEditorUi1.jpg)
+![My helpful screenshot](/assets/images/pandaEditorUi1.jpg)

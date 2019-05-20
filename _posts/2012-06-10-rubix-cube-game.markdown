@@ -8,6 +8,6 @@ I’ve just uploaded my latest Panda3D project which you can play [here](http://
 
 Here’s a screenshot of how the editor looks in its current state with the Rubix Cube project loaded:
 
-![My helpful screenshot](/assets/pandaEditorUi3.jpg)
+![My helpful screenshot](/assets/images/pandaEditorUi3.jpg)
 
 More details on the editor in my next post.

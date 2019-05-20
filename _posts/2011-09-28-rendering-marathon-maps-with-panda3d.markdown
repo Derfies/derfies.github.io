@@ -10,4 +10,4 @@ The Marathon community is still active, and many of the old tools have been reva
 
 I’m not exactly sure what else I’m going to do with this; I might just shelve it for now and call it a fun / useful exercise / great way to kill some time. I will say that it’s hard not to imagine converting more content across to the engine – switches, platforms, terminal text, etc – then to light the entire thing with pixel lights and go exploring… 🙂
 
-![My helpful screenshot](/assets/pandaRubicon01.jpg)
+![My helpful screenshot](/assets/images/pandaRubicon01.jpg)
