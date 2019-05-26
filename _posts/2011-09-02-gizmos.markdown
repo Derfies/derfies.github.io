@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Gizmos"
+date:   2011-09-02 22:20:30
+tags: [tools]
+---
+My first serious project done for Panda3D using Python. There have been number of projects undertaken by Panda users to create scene editors in the past, but none to my knowledge that go beyond transforming nodes by punching numbers into a property grid. As I've always found Maya's gizmos to be extremely user friendly, I used them as a template and tried to reproduce their appearance and behaviour as accurately as possible.
+
+![Gizmos](/assets/images/gizmos.jpg)
+
+I've tried to design this package to be as flexible as possible, and to have that "drop in" usability that doesn't require much effort on the part of the developer. It shouldn't be harder to integrate into another project than importing the package, instantiating a manager and a few gizmo and then binding your chosen keys.
+
+### Features:
+* Three gizmos ready to use out of the box: transition, rotation and scale
+* Manager class for switching between gizmos easily, in addition to changing size and attaching node paths as a group
+* All gizmos come with x, y, z axes as default but support creation of axes along arbitrary vectors
+* Middle-mouse functionality to continue transforming without the mouse being over the a gizmo's axis
+* Alt-mouse functionality to put the gizmo into planar mode for translation and scale gizmos
+* Free rotate / camera vector rotate functionality for rotation gizmo
+
+Check out the gizmos being used to manipulate some objects in this thrilling demonstration:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_9hUJRgY-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Version History:
+
+#### v1.1
+* Fixed intra module importing
+* Moved constants out of __init__.py and into constants.py
+* Fixed local transforming for rotation / scale
+* Added "complementary" scaling when ctrl-clicking an axis
+* Added middle mouse functionality to continue transforming
+* Fixed bug where moving the mouse from the rotation gizmo would stop transforming
+* Fixed bug where quickly rotating in camera axis would spin the gizmo wildly
+* Added support for attaching multiple nodes
+* Added marquee selection for demo
+* Fixed scale gizmo appearance during transform
+* Added concept of default axis
+* All transformations now done with matrices
+* General code cleanup
+
+#### v1.0
+* Initial release

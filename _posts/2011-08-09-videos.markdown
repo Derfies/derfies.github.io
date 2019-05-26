@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Videos"
+date:   2011-08-09 14:13:51
+tags: [video]
+---
+### 2004 Student Major Work
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-W5xN4hs9co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is my student major work from 2004. At the end of our course we each had to produce 60 seconds of animation from an original story of our own creation, then model, texture, rig, light and render it. I quickly got into modelling and scripting after I made this and have rarely dabbled in animation since. Maybe I'll dive back into it someday.
+
+### Alien / Prometheus Trailer Mashup
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUG-RtpzAYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I'm really excited about this movie coming out so decided to set some of the footage from Alien to the music of the latest Prometheus trailer.
